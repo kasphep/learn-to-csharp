@@ -1,0 +1,15 @@
+D:\Programmer\learn-to-csharp\learn-to-csharp-console\bin\Debug\net6.0\learn-to-csharp-console.exe
+D:\Programmer\learn-to-csharp\learn-to-csharp-console\bin\Debug\net6.0\learn-to-csharp-console.deps.json
+D:\Programmer\learn-to-csharp\learn-to-csharp-console\bin\Debug\net6.0\learn-to-csharp-console.runtimeconfig.json
+D:\Programmer\learn-to-csharp\learn-to-csharp-console\bin\Debug\net6.0\learn-to-csharp-console.dll
+D:\Programmer\learn-to-csharp\learn-to-csharp-console\bin\Debug\net6.0\ref\learn-to-csharp-console.dll
+D:\Programmer\learn-to-csharp\learn-to-csharp-console\bin\Debug\net6.0\learn-to-csharp-console.pdb
+D:\Programmer\learn-to-csharp\learn-to-csharp-console\obj\Debug\net6.0\learn-to-csharp-console.csproj.AssemblyReference.cache
+D:\Programmer\learn-to-csharp\learn-to-csharp-console\obj\Debug\net6.0\learn-to-csharp-console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmer\learn-to-csharp\learn-to-csharp-console\obj\Debug\net6.0\learn-to-csharp-console.AssemblyInfoInputs.cache
+D:\Programmer\learn-to-csharp\learn-to-csharp-console\obj\Debug\net6.0\learn-to-csharp-console.AssemblyInfo.cs
+D:\Programmer\learn-to-csharp\learn-to-csharp-console\obj\Debug\net6.0\learn-to-csharp-console.csproj.CoreCompileInputs.cache
+D:\Programmer\learn-to-csharp\learn-to-csharp-console\obj\Debug\net6.0\learn-to-csharp-console.dll
+D:\Programmer\learn-to-csharp\learn-to-csharp-console\obj\Debug\net6.0\ref\learn-to-csharp-console.dll
+D:\Programmer\learn-to-csharp\learn-to-csharp-console\obj\Debug\net6.0\learn-to-csharp-console.pdb
+D:\Programmer\learn-to-csharp\learn-to-csharp-console\obj\Debug\net6.0\learn-to-csharp-console.genruntimeconfig.cache
