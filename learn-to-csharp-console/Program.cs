@@ -168,6 +168,14 @@ namespace learn_to_console
                         Lessons_three_six();
                         break;
 
+                    case 37:
+                        Lessons_three_seven();
+                        break;
+
+                    case 38:
+                        Lessons_three_eight();
+                        break;
+
                     default:
                         Console.WriteLine(" This number of lessoons is undefanded");
                         break;
@@ -218,7 +226,9 @@ namespace learn_to_console
             Console.WriteLine(string.Format(data, "33", "Step (gear) array"));
             Console.WriteLine(string.Format(data, "34", "Multydimensions array"));
             Console.WriteLine(string.Format(data, "35", "Metods, functions"));
-            Console.WriteLine(string.Format(data, "36", "Metods, functions"));
+            Console.WriteLine(string.Format(data, "36", "Method overload"));
+            Console.WriteLine(string.Format(data, "37", "Area of ​​visibility / Context"));
+            Console.WriteLine(string.Format(data, "38", "Link and value types"));
         }
 
         static void Lessons_ziro_one()
@@ -1060,9 +1070,40 @@ namespace learn_to_console
 
         static void Lessons_three_six()
         {
-            Console.WriteLine(" Did select lessons 36:  Matrix random");
+            Console.WriteLine(" Did select lessons 36:  Method overload");
             Console.WriteLine("");
+            int a = 1;
+            int b = 2;
+            int c = 3;
+            double d = 1.2;
+            double e = 1.3;
+            int ab = Sum(a, b);
+            int abc = Sum(a, b, c);
+            double de = Sum(d, e);
+        }
+        static int Sum(int a, int b)
+        {
+            return a + b;
+        }
+        static int Sum(int a, int b, int c)
+        {
+            return (a + b) + c;
+        }
+        static double Sum(double a, double b)
+        {
+            return a + b;
+        }
 
+        static void Lessons_three_seven()
+        {
+            Console.WriteLine(" Did select lessons 37:  Area of ​​visibility / Context");
+            Console.WriteLine("");
+        }
+
+        static void Lessons_three_eight()
+        {
+            Console.WriteLine(" Did select lessons 38:  Link and value types");
+            Console.WriteLine("");
         }
     }
 }
